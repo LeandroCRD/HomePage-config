@@ -1,4 +1,4 @@
-# <samp>Leandro Dionísio </samp><img src="https://github.com/Leandrocrd/Leandrocrd/Images/mario_hello_big.gif" width="30px">
+# <samp>Leandro Dionísio </samp><img src="Images/rugby.gif" width="35px"> </samp><img src="Images/rugby.gif" width="35px">
 
 **LeandroCRD/LeandroCRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
