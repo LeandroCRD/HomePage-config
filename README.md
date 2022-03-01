@@ -1,4 +1,9 @@
-# <samp>Leandro Dionísio </samp><img src="Images/rugby.gif" width="35px"> </samp><img src="Images/rugby.gif" width="35px">
+# <samp>Leandro Dionísio </samp><img src="Images/calendar.gif"  height="50px"> <img src="Images/rugby.gif" width="35px"> </samp>
+
+<h1 align="center"> <bold>ORGANIZED<p align="center"> <img width="460" height="300" src="Images/calendar.gif"></p></h1>
+ 
+<h1 align="center"> <bold>ORGANIZED<p align="center"> <img width="460" height="300" src="Images/calendar.gif"></p></h1>
+  
 
 **LeandroCRD/LeandroCRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
