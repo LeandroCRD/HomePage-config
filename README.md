@@ -1,6 +1,6 @@
  <h1>Leandro Dionísio </h1>
 
-<h1 align="left"><p align="left"> <img width="230" height="150" src="Images/calendar.gif" "title"><img width="180" height="155" src="Images/logic.gif"><img width="125" height="125" src="Images/clock2.gif"></h1>
+<h1 align="left"><p align="left"> <img width="180" height="180" src="Images/ezgif.com-gif-maker180180c.gif" "title"><img width="180" height="180" src="Images/ezgif.com-gif-maker180180.gif"></h1>
  
  
   
