@@ -1,6 +1,6 @@
  <h1>Leandro Dionísio </h1>
 
-<h1 align="left">--- organized   ----   creative   ---- pontual <p align="left"> <img width="230" height="150" src="Images/calendar.gif" "title"><img width="180" height="155" src="Images/logic.gif"><img width="250" height="165" src="Images/clock.gif"></h1>
+<h1 align="left"><p align="left"> <img width="230" height="150" src="Images/calendar.gif" "title"><img width="180" height="155" src="Images/logic.gif"><img width="250" height="165" src="Images/clock.gif"></h1>
  
  
   
