@@ -4,11 +4,11 @@ I am here to learn programming languages and share my projects along the way.
 
 Here are some information about me:
 
-- 🔭 I’m currently working on the banking industry.
+- 🔭 I’m currently working in the banking industry.
 - 🌱 I’m learning Python, SQL and Tableau.
-- 👯 I’m currently working in some personal Python projects.
+- 👯 I’m working in some personal Python projects on my free time.
 - 🤔 I’m looking to get more knowledge about Python and its libraries: Numpy, Tkinter, Pandas, Pygame...    
-- 💬 Quote: "Knowledge is Power" - Francis Bacon
+- 💬 Favourite quote: "Knowledge is Power" - Francis Bacon
 - ⚡ Fun fact: Raspberry PI and Arduino took me to this world.
 - 📫 How to reach me: leandrocrd@gmail.com
 
