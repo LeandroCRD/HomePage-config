@@ -1,4 +1,4 @@
-#<samp>Leandro Dionísio </samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
+# <samp>Leandro Dionísio</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 # <samp>Murillo Pezzuol</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 My name is Leandro and I am here to learn programming languages.
 
