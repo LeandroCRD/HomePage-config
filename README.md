@@ -1,5 +1,8 @@
 # <samp>Leandro Dionísio </samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://https://www.linkedin.com/in/LeandroDIONISIO/)](https://https://www.linkedin.com/in/LeandroDIONISIO/)
+
+
 I am here to learn programming languages and share my projects along the way.
 
 Here are some information about me:
