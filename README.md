@@ -17,7 +17,7 @@ Here are some information about me:
 
 
 
-<!––<h1 align="left">––>
+<!–– <h1 align="left"> ––>
   
   <p align="left"> <img width="180" height="180" src="Images/ezgif.com-gif-maker180180c.gif" "title"><img width="180" height="180" src="Images/ezgif.com-gif-maker180180.gif"></h1> 
 
