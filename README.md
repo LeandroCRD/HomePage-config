@@ -9,7 +9,7 @@ Here are some information about me:
 
 - 🔭 I’m currently working in the banking industry.
 - 🌱 I’m learning Python, SQL and Tableau.
-- 👯 I’m working in some personal Python projects on my free time.
+- 👯 I’m working in personal Python projects on my free time.
 - 🤔 I’m looking to get more knowledge about Python and its libraries: Numpy, Tkinter, Pandas, Pygame...    
 - 💬 Favourite quote: "Knowledge is Power" - Francis Bacon
 - ⚡ Fun fact: Raspberry PI and Arduino took me to this world.
