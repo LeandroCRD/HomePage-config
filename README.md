@@ -5,13 +5,14 @@ I am here to learn programming languages and share my projects along the way.
 Here are some information about me:
 
 - 🔭 I’m currently working on the banking industry.
-- 🌱 I’m currently learning Python, SQL and Tableau.
-- 👯 I’m looking to collaborate on Python Projects.
-- 🤔 I’m looking for help with learning more about programming languages. 
+- 🌱 I’m learning Python, SQL and Tableau.
+- 👯 I’m currently working in some personal Python projects.
+- 🤔 I’m looking to get more knowledge about Python and its libraries: Numpy, Tkinter, Pandas, Pygame...    
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: leandrocrd@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Raspberry PI and Arduino took me to this world.![image](https://user-images.githubusercontent.com/81056784/158081991-addaddcd-42fa-4977-8984-936587830d4e.png)
+
 
 <h1 align="left"><p align="left"> <img width="180" height="180" src="Images/ezgif.com-gif-maker180180c.gif" "title"><img width="180" height="180" src="Images/ezgif.com-gif-maker180180.gif"></h1>
 
