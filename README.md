@@ -1,4 +1,4 @@
-# <samp>Leandro Dionísio [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/LeandroDIONISIO/)](https://www.linkedin.com/in/LeandroDIONISIO/)</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
+# <samp>Leandro Dionísio </samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/LeandroDIONISIO/)](https://www.linkedin.com/in/LeandroDIONISIO/)
 
