@@ -8,10 +8,10 @@ Here are some information about me:
 - 🌱 I’m learning Python, SQL and Tableau.
 - 👯 I’m currently working in some personal Python projects.
 - 🤔 I’m looking to get more knowledge about Python and its libraries: Numpy, Tkinter, Pandas, Pygame...    
-- 💬 Ask me about ...
+- 💬 Quote: "Knowledge is Power" - Francis Bacon
+- ⚡ Fun fact: Raspberry PI and Arduino took me to this world.
 - 📫 How to reach me: leandrocrd@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Raspberry PI and Arduino took me to this world.![image](https://user-images.githubusercontent.com/81056784/158081991-addaddcd-42fa-4977-8984-936587830d4e.png width="30px")
+
 
 
 <h1 align="left"><p align="left"> <img width="180" height="180" src="Images/ezgif.com-gif-maker180180c.gif" "title"><img width="180" height="180" src="Images/ezgif.com-gif-maker180180.gif"></h1>
