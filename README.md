@@ -1,4 +1,4 @@
- <h1>Leandro Dionísio </h1>
+ <h1>Leandro Dionísio </h1> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
 <h1 align="left"><p align="left"> <img width="180" height="180" src="Images/ezgif.com-gif-maker180180c.gif" "title"><img width="180" height="180" src="Images/ezgif.com-gif-maker180180.gif"></h1>
 
