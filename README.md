@@ -1,6 +1,6 @@
 # <samp>Leandro Dionísio </samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
-My name is Leandro and I am here to learn programming languages.
+I am here to learn programming languages and share my projects along the way.
 
 Here are some information about me:
 
