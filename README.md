@@ -14,3 +14,5 @@ Here are some information about me:
 - 💬 Favourite quote: "Knowledge is Power" - Francis Bacon
 - ⚡ Fun fact: Raspberry PI and Arduino took me to this world.
 - 📫 How to reach me: leandrocrd@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/LeandroDIONISIO/)](https://www.linkedin.com/in/LeandroDIONISIO/)
+
+[![Linkedin Badge](https://https://img.shields.io/badge/leandro.dionisio-%40gmail.com-red)
